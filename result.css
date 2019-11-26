@@ -1,0 +1,32 @@
+@charset "Shift_JIS";
+
+*{
+    font-family: Hiragino Kaku Gothic Pro;
+}
+
+.container{
+    text-align: center;
+
+}
+
+h2 {
+    text-align: center;
+}
+
+.missing{
+    width: 350px;
+    text-align: center;
+    border: 3px solid red;
+    padding-left: 200px;
+    padding-right: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#MissingName {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100px;
+    background: linear-gradient(transparent 60%, #ffff66 60%);
+}
